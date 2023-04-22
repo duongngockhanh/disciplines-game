@@ -11,3 +11,4 @@ Analysis
 Probability
 Statistics
 Astronomy
+German
