@@ -1,6 +1,10 @@
 # Overview
 If you are undecided on which discipline to research during the holiday, this is for you.
 
+
+https://user-images.githubusercontent.com/87640587/233757566-c288c55b-6d64-40a7-b535-acf459c73fcc.mov
+
+
 # Run
 ```commandline
 python disciplines.py
