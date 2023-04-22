@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/87640587/233757566-c288c55b-6d64-40a7-
 ```commandline
 python disciplines.py
 ```
+Press "q" to choose. Then, press any keyboard to exit the program.
 
 # Installation
 You just need to install two libraries of Python are OpenCV and Numpy.
