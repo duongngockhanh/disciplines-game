@@ -2,12 +2,16 @@
 If you are undecided on which discipline to research during the holiday, this is for you.
 
 # Run
-    python disciplines.py
+```commandline
+python disciplines.py
+```
 
 # Installation
 You just need to install two libraries of Python are OpenCV and Numpy.
-    pip install opencv-python
-    pip install numpy
+```commandline
+pip install opencv-python
+pip install numpy
+```
 
 # Custom
 + You can customize the disciplines that you want to randomize in disciplines.txt. Each field is on a separate line.
