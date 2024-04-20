@@ -1,0 +1,3 @@
+# 72 cups of black coffee per day
+
+I had a veritable mania for finishing whatever I began, which often got me into difficulties. On one occasion I started to read the works of Voltaire, when I learned, to my dismay that there were close to one hundred large volumes in small print which that monster had written while drinking **72 cups of black coffee per day**. It had to be done, but when I laid aside that last book I was very glad, and said, "Never more!"
